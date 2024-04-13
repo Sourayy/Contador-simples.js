@@ -6,3 +6,4 @@ Alteração Online
 nova alteração local
 nova alteração online
 última interação online
+última alteração local
